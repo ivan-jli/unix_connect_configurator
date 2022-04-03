@@ -1,0 +1,5 @@
+#configure once
+
+install ifconfig (.. utils)
+install avahi-autoipd -> questionnable, as it doesn't work.. better make a permanent workaround...
+
